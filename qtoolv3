@@ -9,7 +9,7 @@ end)
 tool.Parent = game.Players.LocalPlayer.Backpack
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "backup#6002 .gg/productions";
+    Title = "backupalt#3386 .gg/productions";
     Text = "join .gg/productions";
 
 })
